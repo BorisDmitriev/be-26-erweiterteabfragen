@@ -1,0 +1,24 @@
+{
+    "name": "mongoose-erweiterte-abfragen",
+    "version": "1.0.0",
+    "description": "### Description In this exercise, you will learn how to perform advanced queries with Mongoose. You will use different criteria to filter your query results, sort and limit the results, and set the result offset.",
+    "main": "solution.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node solution.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/herbertnikolajewskidci/Mongoose-Erweiterte-Abfragen.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/herbertnikolajewskidci/Mongoose-Erweiterte-Abfragen/issues"
+    },
+    "homepage": "https://github.com/herbertnikolajewskidci/Mongoose-Erweiterte-Abfragen#readme",
+    "dependencies": {
+        "mongoose": "^7.3.0"
+    }
+}
